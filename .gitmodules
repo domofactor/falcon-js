@@ -1,0 +1,3 @@
+[submodule "falcon-js.wiki"]
+	path = falcon-js.wiki
+	url = git@github.com:domofactor/falcon-js.wiki.git
